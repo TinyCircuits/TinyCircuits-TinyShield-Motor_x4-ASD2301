@@ -4,7 +4,7 @@ These are the design files for the TinyCircuits ASD2201 Rev 1 PCB.  This is a Ti
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at TinyCircuits.com:  https://tiny-circuits.com/tiny-shield-motor-x-4.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/discontinued/products/motor-x4-tinyshield
 
 
 
