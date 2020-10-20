@@ -1,6 +1,4 @@
-# TinyCircuits TinyShield motor x4 Board
-# ASD2301 Rev1
-# NOTICE: This board has been discontinued
+# [DISCONTINUED] TinyCircuits TinyShield motor x4 Board ASD2301 Rev1
 
 These are the design files for the TinyCircuits ASD2201 Rev 1 PCB.  This is a TinyShield board (Square Version, 20mm x 20mm, or Circular 20mm diameter) that has a four TI DRV8847 motor drivers on it, to allow four DC brushed motors to be driven.
 
